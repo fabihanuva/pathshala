@@ -79,18 +79,6 @@ Four core collections, related as follows:
 A course has many lessons; a student's enrollment tracks completion per lesson and
 recalculates an overall percentage whenever a lesson is marked complete.
 
-## Testing
-
-No automated test suite yet (see Roadmap). The project was manually tested end-to-end
-against a checklist covering: auth edge cases, role-based access control across all
-three roles, course/lesson CRUD, enrollment and progress tracking, search/filter/pagination,
-and error handling with the backend offline.
-
-## Screenshots
-
-*(Add screenshots of your running app here before submitting — e.g. Dashboard, Course
-Listing, Course Details, Lesson Player, Admin Users page.)*
-
 ## Getting Started
 
 ### Backend
